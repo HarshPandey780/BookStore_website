@@ -1,6 +1,5 @@
 <h1>Book Store Website</h1>
-
-I  developed this Book store website using mern stack.
+This is a full-stack web application for a book store built using the MERN stack (MongoDB, Express.js, React.js, Node.js). 
 <h2>Technology Used</h2>
 <ul>
   <li>React</li>
@@ -11,3 +10,14 @@ I  developed this Book store website using mern stack.
     <li>JWT Token</li>
     
 </ul>
+<h2> Features</h2>
+<ul>
+  <li>Login Page</li>
+    <li>Add Books</li>
+    <li>Add Students</li>
+    <li>Dashboardt</li>
+    <li>Delete Books</li>
+    
+    
+</ul>
+
