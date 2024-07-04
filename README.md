@@ -13,10 +13,10 @@ This is a full-stack web application for a book store built using the MERN stack
 <h2> Features</h2>
 <ul>
   <li>Login Page</li>
-    <li>Add Books</li>
-    <li>Add Students</li>
-    <li>Dashboardt</li>
+    <li>Dashborad</li>
+    <li>Add Books Page</li>
     <li>Delete Books</li>
+    <li>Add Student</li>
     
     
 </ul>
