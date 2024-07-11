@@ -1,4 +1,4 @@
-<h1>Book Store Website</h1>
+<h1>Urban Reads Store </h1>
 This is a full-stack web application for a book store built using the MERN stack (MongoDB, Express.js, React.js, Node.js). 
 <h2>Website </h2>
 <a href="https://spectacular-bombolone-b2a487.netlify.app/">Link</a>
