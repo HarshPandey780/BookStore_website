@@ -17,8 +17,9 @@ This is a full-stack web application for a book store built using the MERN stack
 <ul>
   <li>Login Page</li>
     <li>Dashbord</li>
-    <li>Add Books Page</li>
+    <li>Add Books </li>
     <li>Delete Books</li>
+    <li> Edit Books</li>
     <li>Add Student</li>
     
     
