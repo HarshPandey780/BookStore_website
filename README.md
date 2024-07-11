@@ -10,6 +10,7 @@ This is a full-stack web application for a book store built using the MERN stack
     <li>Javascript</li>
     <li>Node Js</li>
     <li>JWT Token</li>
+    <li>Bcryptjs</li>
     
 </ul>
 <h2> Features</h2>
